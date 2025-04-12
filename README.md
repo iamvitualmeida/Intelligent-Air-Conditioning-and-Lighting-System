@@ -53,6 +53,11 @@ Com este sistema, é possível:
 
 ---
 
+## Montagem Eletrônica no Ambiente de Simulação 
+![image](https://github.com/user-attachments/assets/052257cf-39c1-4c21-a9c7-8c2c7e6fb9c5)
+
+---
+
 ## Possíveis Melhorias  
 - **Automação Avançada:**  
   - Ligar o ventilador automaticamente em uma determinada faixa de temperatura.  
